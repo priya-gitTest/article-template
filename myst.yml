@@ -26,8 +26,9 @@ project:
     CRISPR: Clustered regularly interspaced short palindromic repeats
     DOI: Digital object identifier
   exports:
-    - format: typst
+    - template: lapreprint-typst
       article: article.md
+  downloads: []
   toc:
     - file: article.md
     - file: analysis.ipynb
