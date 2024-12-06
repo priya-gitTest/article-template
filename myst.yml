@@ -2,8 +2,8 @@
 version: 1
 project:
   id: morganton-2024-template
-  title: "Morgan's Marvelous Mutations: Unraveling the Mysteries of Genetic Variation"
-  subtitle: Analysis of genetic variation of Drosophila melanogaster across three environments
+  title: "Morgan's Test Marvelous Mutations: Unraveling the Mysteries of Genetic Variation"
+  subtitle: Analysis Test of genetic variation of Drosophila melanogaster across three environments
   short_title: Genetic Variation
   description: A template paper that explains how to format and submit to The Morganton Scientific. Content focuses on a hypothetical study of fruit flies and analyzing phenotypic variation across environments; analysis is done in an attached Jupyter Notebook.
   github: https://github.com/rowanc1/article-template

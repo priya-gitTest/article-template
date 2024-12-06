@@ -1,7 +1,7 @@
 ---
-title: "Morgan's Marvelous Mutations: Unraveling the Mysteries of Genetic Variation"
+title: "Testing the Title"
 abstract: |
-  Here we present a templating guide for Research Articles submitted to _The Morganton Scientific_. We use some inspiration from [Thomas Hunt Morgan](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan), who was a pioneering American geneticist whose work with fruit flies ([Drosophila melanogaster](https://en.wikipedia.org/wiki/Drosophila_melanogaster)) in the early 20th century provided the first solid evidence of genes being carried on chromosomes. This background provides a scaffold for exploring templating in a realistic way, without looking at too much [Lorem Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) text. The paper shows analysis in a Jupyter Notebook and uses those in a reproducible manner in the article. Look out for quoted sections that explain the section or other relevant formatting information.
+  Testing Here we present a templating guide for Research Articles submitted to _The Morganton Scientific_. We use some inspiration from [Thomas Hunt Morgan](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan), who was a pioneering American geneticist whose work with fruit flies ([Drosophila melanogaster](https://en.wikipedia.org/wiki/Drosophila_melanogaster)) in the early 20th century provided the first solid evidence of genes being carried on chromosomes. This background provides a scaffold for exploring templating in a realistic way, without looking at too much [Lorem Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) text. The paper shows analysis in a Jupyter Notebook and uses those in a reproducible manner in the article. Look out for quoted sections that explain the section or other relevant formatting information.
 
   Your abstract should be between 100-200 words, and introduce a technical synopsis of your paper that includes background, methods, results, and conclusions. You can use the `abstract: |` key in your article frontmatter to write it.
 acknowledgments: |
@@ -13,7 +13,7 @@ acknowledgments: |
 
 ## Introduction
 
-> Start with a broad picture of the importance and significance of your chosen field while explaining introductory concepts. State the problem and goals that your research will address. Please cite any referenced literature.
+> Start test  with a broad picture of the importance and significance of your chosen field while explaining introductory concepts. State the problem and goals that your research will address. Please cite any referenced literature.
 
 Genetic variation is the cornerstone of biological diversity and evolution, underlying the vast array of phenotypes observed within and across species. Understanding the mechanisms and consequences of genetic variation is crucial for unraveling the complexities of life, from individual health and disease susceptibility to the adaptability and survival of species in changing environments. We use some inspiration from [Thomas Hunt Morgan](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan)[^no-relation], who was a pioneering American geneticist whose work with fruit flies ([Drosophila melanogaster]). Our paper aims to shed light on the phenotypic diversity in three different environments in and around a hypothetical high-school.
 

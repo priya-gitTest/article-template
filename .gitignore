@@ -1,1 +1,4 @@
-_build
+venv/
+venv/lib/python3.8/site-packages/jupyter.py
+oryx-build-commands.txt
+_build/
